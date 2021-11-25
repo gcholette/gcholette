@@ -6,4 +6,10 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcholette&layout=compact&&theme=material-palenight&hide_title=true&hide=java,smarty,vim%20script&langs_count=15&bg_color=325,22324a,351f43&title_color=fff&text_color=fff&card_width=445&exclude_repo=xscreensaver,logue-sdk,galaxy-xscreensaver" />
     </a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gcholette"/>
   </p>
+  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username" />
+  <img src="https://www.codewars.com/users/gcholette/badges/micro" />
+</p>
