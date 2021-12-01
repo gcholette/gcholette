@@ -14,7 +14,7 @@
   </p>
   
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username" />
+  <img src="https://komarev.com/ghpvc/?username=gcholette" />
   <a href="https://www.codewars.com/users/gcholette">
   <img src="https://www.codewars.com/users/gcholette/badges/micro" />
   </a>
