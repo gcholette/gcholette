@@ -18,4 +18,5 @@
   <a href="https://www.codewars.com/users/gcholette">
   <img src="https://www.codewars.com/users/gcholette/badges/micro" />
   </a>
+  <a href="https://github.com/gcholette/aoc-2021-js"><img src="https://img.shields.io/badge/AoC%2021%20%E2%AD%90-14-yellow" /></a>
 </p>
