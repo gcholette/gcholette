@@ -1,4 +1,5 @@
-  <p align="center">
+
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gcholette&include_all_commits=true&show_icons=true&theme=gotham&hide_title=true&hide_border=false" />
     </a>
@@ -13,10 +14,19 @@
 
   </p>
   
+ <div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/gcholette/count.svg)
+
+  </div>
+
+    
+  
+  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gcholette" />
   <a href="https://www.codewars.com/users/gcholette">
   <img src="https://www.codewars.com/users/gcholette/badges/micro" />
   </a>
-  <a href="https://github.com/gcholette/aoc-2021-js"><img src="https://img.shields.io/badge/AoC%2021%20%E2%AD%90-18-yellow" /></a>
 </p>
+  
+
