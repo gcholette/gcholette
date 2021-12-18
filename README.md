@@ -1,9 +1,5 @@
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gcholette&include_all_commits=true&show_icons=true&theme=gotham&hide_title=true&hide_border=false" />
-    </a>
-  <br />
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gcholette&theme=gotham"/>
   </a>
@@ -14,19 +10,26 @@
 
   </p>
   
- <div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/gcholette/count.svg)
-
-  </div>
-
-    
-  
-  
 <p align="center">
+   <img src="https://user-images.githubusercontent.com/8711020/146624908-b9e9ece1-b30e-4f10-b7e5-5a0877b9b65f.gif" />
+  &nbsp;  &nbsp;  &nbsp;  &nbsp;
+  
   <a href="https://www.codewars.com/users/gcholette">
   <img src="https://www.codewars.com/users/gcholette/badges/micro" />
   </a>
+  <a href="https://github.com/gcholette/aoc-2021-js"><img src="https://img.shields.io/badge/AoC%2021%20%E2%AD%90-22-yellow" /></a>
+    &nbsp;    &nbsp;    &nbsp;    &nbsp;
+ <img src="https://user-images.githubusercontent.com/8711020/146624908-b9e9ece1-b30e-4f10-b7e5-5a0877b9b65f.gif" />
 </p>
   
+ 
+
+
+ <div align="center">
+     <img src="https://profile-counter.glitch.me/gcholette/count.svg" />
+
+
+  </div>
+  
+
 
