@@ -1,3 +1,5 @@
+
+
 <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gcholette&theme=gotham"/>
@@ -8,12 +10,7 @@
     </a>
   </p>
   
-<p align="center">
-  <a href="https://www.codewars.com/users/gcholette">
-  <img src="https://www.codewars.com/users/gcholette/badges/micro" />
-  </a>
-</p>
-
+  
  <div align="center">
      <img src="https://profile-counter.glitch.me/gcholette/count.svg" />
  </div>
