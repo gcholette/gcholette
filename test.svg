@@ -1,0 +1,63 @@
+<svg
+  width="200"
+  height="80"
+  viewBox="0 0 200 80"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Background -->
+  <rect width="200" height="80" rx="6" fill="#0d1117" />
+
+  <!-- Everything inside this group will fade in -->
+  <g opacity="0">
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur="0.8s"
+      begin="0.2s"
+      fill="freeze"
+    />
+
+    <!-- Axes -->
+    <line x1="20" y1="10" x2="20" y2="65" stroke="#444c56" stroke-width="1" />
+    <line x1="20" y1="65" x2="190" y2="65" stroke="#444c56" stroke-width="1" />
+
+    <!-- Horizontal grid lines -->
+    <line x1="20" y1="25" x2="190" y2="25" stroke="#22272e" stroke-width="0.5" />
+    <line x1="20" y1="45" x2="190" y2="45" stroke="#22272e" stroke-width="0.5" />
+
+    <!-- Line graph -->
+    <polyline
+      fill="none"
+      stroke="#58a6ff"
+      stroke-width="2"
+      points="
+        25,55
+        55,35
+        85,40
+        115,25
+        145,30
+        175,15
+      "
+    />
+
+    <!-- Data points -->
+    <circle cx="25" cy="55" r="3" fill="#58a6ff" />
+    <circle cx="55" cy="35" r="3" fill="#58a6ff" />
+    <circle cx="85" cy="40" r="3" fill="#58a6ff" />
+    <circle cx="115" cy="25" r="3" fill="#58a6ff" />
+    <circle cx="145" cy="30" r="3" fill="#58a6ff" />
+    <circle cx="175" cy="15" r="3" fill="#58a6ff" />
+
+    <!-- Label -->
+    <text
+      x="28"
+      y="22"
+      font-size="10"
+      font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+      fill="#8b949e"
+    >
+      demo graph
+    </text>
+  </g>
+</svg>
